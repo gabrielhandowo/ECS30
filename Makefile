@@ -9,3 +9,4 @@ read_lines.o: read_lines.c read_lines.c
 	
 clean:
 	rm -f *.out *.o
+//for read_lines.out
